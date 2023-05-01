@@ -3,8 +3,7 @@ This python script convert a SeedXiao RP2040 to a midi generator no all pin avai
 Where to buy : https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 ![image](https://user-images.githubusercontent.com/20149493/235487782-e69fb95d-8172-40b7-a71b-21fa8549abe5.png)
 
-![image](https://user-images.githubusercontent.com/20149493/235472859-5cd6f63b-2e21-4ebc-8099-ffa58000662d.png)
-![image](https://user-images.githubusercontent.com/20149493/235472911-d9be188a-5812-4262-aa1a-341cc186262d.png)
+
 
 
 ``` py
@@ -66,3 +65,7 @@ while True:
 ```
 
 _I am not a python developer. If you have better proposition feel free to correct me_
+
+
+![image](https://user-images.githubusercontent.com/20149493/235472859-5cd6f63b-2e21-4ebc-8099-ffa58000662d.png)
+![image](https://user-images.githubusercontent.com/20149493/235472911-d9be188a-5812-4262-aa1a-341cc186262d.png)
