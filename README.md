@@ -1,4 +1,4 @@
-# 2023_05_01_SeeedXiaoRP2040ToMidi
+#  Seeed Xiao RP2040 To Midi
 This python script convert a SeedXiao RP2040 to a midi generator no all pin available.
 
 ![image](https://user-images.githubusercontent.com/20149493/235472859-5cd6f63b-2e21-4ebc-8099-ffa58000662d.png)
