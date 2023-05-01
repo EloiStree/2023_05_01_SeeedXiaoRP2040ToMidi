@@ -62,3 +62,5 @@ while True:
                midi.send(NoteOff(i+60, 120))
 
 ```
+
+_I am not a python developer. If you have better proposition feel free to correct me_
